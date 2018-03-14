@@ -1,0 +1,3 @@
+com\capacitacion\serenity\definitions\LoginDefinitions.class
+com\capacitacion\serenity\pages\LoginPages.class
+com\capacitacion\serenity\steps\LoginSteps.class
